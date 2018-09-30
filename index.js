@@ -18,6 +18,7 @@ function longPlaneteerCalls(words) {
   }
 }
 
+
 function findTheCheese(foods) { 
   for (var i = 0; i <= foods.length-1; i++) {
     if (foods[i] ==='cheddar') {
